@@ -32,7 +32,7 @@ Test this function by hand in the console to get it working, and when you think 
 function multiply(a, b) { //eslint-disable-line
     var mul = a * b;
     var result = `The product of ${a} and ${b} is ${mul}.`
-    //console.log(result);
+    //console.log(result );
     return [mul, result];
 }
 
